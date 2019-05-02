@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Setup,Firefox 66.0,,2019-04-18 19:57:11,2019-04-18 19:57:16,4.490s,PASSED
+,,,,,,
+Test Cases/Setup,Firefox 66.0,,2019-04-18 19:57:12,2019-04-18 19:57:16,4.269s,PASSED
+"openBrowser("""")",Firefox 66.0,,2019-04-18 19:57:12,2019-04-18 19:57:15,3.284s,PASSED
+closeBrowser(),Firefox 66.0,,2019-04-18 19:57:15,2019-04-18 19:57:16,0.667s,PASSED

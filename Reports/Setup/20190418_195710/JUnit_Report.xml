@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Setup" time="4" tests="1" failures="0" errors="0">
+   <testsuite name="Setup" tests="1" failures="0" errors="0" time="4" timestamp="2019-04-18 19:57:11" hostname="mooren2 - IP-C0A88286.reacts2.aws" id="Test Suites/Setup">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Users\\mooren2\\Katalon Studio\\First Project\\Reports\\Setup\\20190418_195710"/>
+         <property name="logFiles" value="D:\\Users\\mooren2\\Katalon Studio\\First Project\\Reports\\Setup\\20190418_195710\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mooren2 - IP-C0A88286.reacts2.aws"/>
+         <property name="os" value="Windows Server 2008 R2 64bit"/>
+         <property name="katalonVersion" value="6.1.1.1"/>
+         <property name="browser" value="Firefox 66.0"/>
+         <property name="hostAddress" value="172.16.0.128"/>
+         <property name="sessionId" value="0173b851-7171-4640-a174-fa5fed105580"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows Server 2008 R2"/>
+      </properties>
+      <testcase name="Test Cases/Setup" classname="Test Cases/Setup" status="PASSED">
+         <system-out><![CDATA[2019-04-18 19:57:12 - [TEST_CASE][PASSED] - Test Cases/Setup: Test Cases/Setup
+
+2019-04-18 19:57:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-18 19:57:12 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-04-18 19:57:12 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-04-18 19:57:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-18 19:57:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-04-18 19:57:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-04-18 19:57:11 - [TEST_SUITE][PASSED] - Setup: Test Cases/Setup]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
